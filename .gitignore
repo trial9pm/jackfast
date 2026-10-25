@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+bot_data.pkl
+bot_version.txt
+user_version_*.txt
+.env
+*.log
+.venv/
+venv/
